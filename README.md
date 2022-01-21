@@ -57,7 +57,7 @@ Projects 📦
 - #### <a href="https://github.com/freezywt/Conversor-De-Moedas"><img align="center" src="https://img.shields.io/badge/-Currency converter-BCBD0A?style=for-the-badge"></a> :&nbsp; Application made in react native for currency conversion.
 - #### <a href="https://github.com/freezywt/BuscadorDeCep"><img align="center" src="https://img.shields.io/badge/Zip code search-887BFA?style=for-the-badge"></a> :&nbsp; Application made in react native for zipcode search.
 - #### <a href="https://github.com/freezywt/Netflix-Clone"><img align="center" src="https://img.shields.io/badge/-Netflix Clone-DC2222?style=for-the-badge"></a> :&nbsp; A netflix clone, using reactjs.
-- #### <a href="https://github.com/freezywt/nodets-canil"><img align="center" src="https://img.shields.io/github/v/release/Node Canil/Str8up-Menu?label=Str8up%20Menu&style=for-the-badge&labelColor=02ACD6&color=BCBD0A"></a> :&nbsp; A site made to test my knowledge in nodejs and mustache
+- #### <a href="https://github.com/freezywt/nodets-canil"><img align="center" src="https://img.shields.io/github/v/release/Node Canil/Node Canil?label=Str8up%20Menu&style=for-the-badge&labelColor=02ACD6&color=BCBD0A"></a> :&nbsp; A site made to test my knowledge in nodejs and mustache
 
 <br />
 
