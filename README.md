@@ -50,17 +50,6 @@ if __name__ == "__main__":
 
 <br />
 
-Projects 📦
------------
-- #### <a href="hhttps://github.com/freezywt/Market-List.git"><img align="center" src="https://img.shields.io/github/v/release/ohitstom/MarketList?label=Market List&style=for-the-badge&labelColor=E84F41&color=F48C38"></a> :&nbsp; A basic marketlist app with react native.
-- #### <a href="https://github.com/freezywt/Financas"><img align="center" src="https://img.shields.io/github/v/release/freezywt/Financas?label=Financas&style=for-the-badge&labelColor=3079EA&color=885DEA"></a> :&nbsp; A financial manager, made with react-native and firebase.
-- #### <a href="https://github.com/freezywt/Conversor-De-Moedas"><img align="center" src="https://img.shields.io/badge/-Currency converter-BCBD0A?style=for-the-badge"></a> :&nbsp; Application made in react native for currency conversion.
-- #### <a href="https://github.com/freezywt/BuscadorDeCep"><img align="center" src="https://img.shields.io/badge/Zip code search-887BFA?style=for-the-badge"></a> :&nbsp; Application made in react native for zipcode search.
-- #### <a href="https://github.com/freezywt/Netflix-Clone"><img align="center" src="https://img.shields.io/badge/-Netflix Clone-DC2222?style=for-the-badge"></a> :&nbsp; A netflix clone, using reactjs.
-- #### <a href="https://github.com/freezywt/nodets-canil"><img align="center" src="https://img.shields.io/github/v/release/Node Canil/Node Canil?label=Node Canil&style=for-the-badge&labelColor=02ACD6&color=BCBD0A"></a> :&nbsp; A site made to test my knowledge in nodejs and mustache
-
-<br />
-
 Languages 💾
 ------------
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
