@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Freezy!</h1>
 <p align="center">
-    <i>Self proclaimed</i> <b>CEO of Procrastination</b> <i>and</i> <b>VueJS Enjoyer</b>
+    <i>Self proclaimed</i> <b>CEO of Procrastination</b> <i>and</i> <b>ReactJS Enjoyer</b>
     <br />
     <br />
     <a href="https://hits.seeyoufarm.com/">
