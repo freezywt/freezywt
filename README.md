@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Freezy!</h1>
+<h1 align="center">Hey there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20">, I'm Freezy!</h1>
 <p align="center">
     <i>Self proclaimed</i> <b>CEO of Procrastination</b> <i>and</i> <b>ReactJS Enjoyer</b>
     <br />
